@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finanzauto.ManagementIndicators.API", "Finanzauto.ManagementIndicators.API\Finanzauto.ManagementIndicators.API.csproj", "{55C08799-F63C-4383-B8C4-4BECEB6ECCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C08799-F63C-4383-B8C4-4BECEB6ECCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C08799-F63C-4383-B8C4-4BECEB6ECCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C08799-F63C-4383-B8C4-4BECEB6ECCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C08799-F63C-4383-B8C4-4BECEB6ECCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19FD0BF8-8016-4408-8FFB-D4D19A4A2042}
+	EndGlobalSection
+EndGlobal
